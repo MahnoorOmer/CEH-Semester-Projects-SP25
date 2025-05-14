@@ -1,0 +1,14 @@
+TOOLS:
+
+
+Disk Encryption:
+
+1. Rohos Disk Encryption
+2. Veracrypt
+3. Bitlocker Drive Encryption
+
+
+
+Email Encryption:
+
+1. Rmail.com
